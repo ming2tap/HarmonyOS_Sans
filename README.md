@@ -1,0 +1,2 @@
+# HarmonyOS_Sans
+468k的HarmonyOS_Sans_SC_Regular.woff2 ttf格式转换为woff2格式，体积更小，更适用于前端
